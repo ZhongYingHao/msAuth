@@ -1,0 +1,4 @@
+#-------starter自动装配---------
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ms.cb.starter.config.AuthingConfig,\
+ms.cb.starter.config.security.SecurityConfig
